@@ -4,3 +4,4 @@ PyPDF2
 gensim
 nltk
 gdown
+torch
